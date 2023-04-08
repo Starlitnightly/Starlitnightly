@@ -4,20 +4,12 @@
 </a>
 <br/>
 
-<a href="https://gkos.tech/Resume.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
-<a href="https://www.linkedin.com/in/konstantinos-georgiou/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
+<br>
 <a href="mailto:starlitnightly@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href='https://scholar.google.com/citations?user=vBx2W4wAAAAJ&hl=en&oi=ao' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
-<a href="https://pypi.org/user/drkostas/">
-    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
 
 <a href="https://github.com/Starlitnightly">
@@ -51,7 +43,7 @@
 | [scltnn](https://github.com/Starlitnightly/scltnn) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/scltnn?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 | [ERgene](https://github.com/Starlitnightly/ERgene) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/ERgene?style=flat-square&labelColor=black"/> | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 
-
+</td></tr> </table>
 
 <details>
 <summary>📈 Stats</summary>
