@@ -32,6 +32,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [bioinformatic_tutorial](https://github.com/Starlitnightly/bioinformatic_tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/bioinformatic_tutorial?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
+| [scRNA-seq tutorial](https://github.com/Starlitnightly/single_cell_tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/single_cell_tutorial?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 | [USTB-resource](https://github.com/Starlitnightly/USTB-resource) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/USTB-resource?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter)![CPP](https://img.shields.io/badge/C++-black?style=flat-square&logo=C) |
 | [Analysis_AD](https://github.com/Starlitnightly/Analysis_AD) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Analysis_AD?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.sciencedirect.com/science/article/pii/S1465324921007544) ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 | [Liver_clock](https://github.com/Starlitnightly/Liver_clock) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Liver_clock?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
@@ -41,7 +42,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Pyomic](https://github.com/Starlitnightly/Pyomic) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Pyomic?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
+| [Omicverse](https://github.com/Starlitnightly/Pyomic) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Pyomic?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 | [scltnn](https://github.com/Starlitnightly/scltnn) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/scltnn?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 | [ERgene](https://github.com/Starlitnightly/ERgene) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/ERgene?style=flat-square&labelColor=black"/> | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 
