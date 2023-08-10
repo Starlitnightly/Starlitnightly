@@ -43,6 +43,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [Omicverse](https://github.com/Starlitnightly/Pyomic) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Pyomic?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
+| [Epiverse](https://github.com/DBinary/Epiverse) | <img alt="Stars" src="https://img.shields.io/github/stars/DBinary/Epiverse?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 | [scltnn](https://github.com/Starlitnightly/scltnn) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/scltnn?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 | [ERgene](https://github.com/Starlitnightly/ERgene) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/ERgene?style=flat-square&labelColor=black"/> | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 
