@@ -72,3 +72,4 @@ My Github Stats
 
 <br>
 
+If you would like to sponsor the development of our project, you can go to the afdian website (https://afdian.net/a/starlitnightly) and sponsor us.
