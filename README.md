@@ -58,6 +58,7 @@
 | [Analysis_nodal](https://github.com/Starlitnightly/Analysis_Nodal) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Analysis_Nodal?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.frontiersin.org/articles/10.3389/fcell.2022.1047363/full) ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 | [Analysis_sisheng](https://github.com/Starlitnightly/Analysis_sisheng) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Analysis_sisheng?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://doi.org/10.2174/0113862073276253231114063813)![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 | [Analysis_microbiome_msc](https://github.com/Starlitnightly/Analysis_microbiome_msc) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Analysis_microbiome_msc?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
+| [omicverse-reproducibility](https://github.com/Starlitnightly/omicverse-reproducibility) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/omicverse-reproducibility?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 
 </td></tr> </table>
 
