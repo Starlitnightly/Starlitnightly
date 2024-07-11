@@ -11,6 +11,11 @@
 <a href='https://scholar.google.com/citations?user=vBx2W4wAAAAJ&hl=en&oi=ao' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
+<a href='https://twitter.com/intent/follow?screen_name=starlitnightly'>
+    <img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/starlitnightly?label=Follow'>
+</a>
+    
+
 
 <br/> 
 
@@ -21,7 +26,9 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently studying on Daxing Research @ [University of Science and Technology Beijing](https://en.ustb.edu.cn/). 
+* 💻 Currently studying on Daxing Research @ [University of Science and Technology Beijing](https://en.ustb.edu.cn/).
+
+* 📙 Check out my [cv](https://github.com/Starlitnightly/Starlitnightly/blob/main/README.assets/cv-zehuazeng.pdf)
 
 ### 🖥️ Open-Source Projects
 <table>
