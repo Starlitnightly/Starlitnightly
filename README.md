@@ -28,7 +28,6 @@
 
 * 💻 Currently studying on Daxing Research @ [University of Science and Technology Beijing](https://en.ustb.edu.cn/).
 
-* 📙 Check out my [cv](https://github.com/Starlitnightly/Starlitnightly/blob/main/README.assets/cv-zehuazeng.pdf)
 
 ### 🖥️ Open-Source Projects
 <table>
