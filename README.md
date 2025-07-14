@@ -22,11 +22,11 @@
 <a href="https://github.com/Starlitnightly">
     <img src="https://github-stats-alpha.vercel.app/api?username=Starlitnightly&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
-* 🎓 Conducting research on **AI** and **Bioinformatics** @ [the 112 Lab](https://112lab.asia/).
+* 🎓 Conducting research on **AI** and **Bioinformatics** @ [the 112 Lab](https://112lab.asia/) and @ [Qiu Lab](https://www.devo-evo.com/).
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently studying on Daxing Research @ [University of Science and Technology Beijing](https://en.ustb.edu.cn/).
+* 💻 Currently studying on Daxing Research @ [University of Science and Technology Beijing](https://en.ustb.edu.cn/) and Department of Genetics @[Stanford University](https://www.stanford.edu/).
 
 
 ### 🖥️ Open-Source Projects
@@ -47,7 +47,7 @@
 |--|--|--|
 | [Omicverse](https://github.com/Starlitnightly/Pyomic) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Pyomic?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.nature.com/articles/s41467-024-50194-3)|
 | [Epiverse](https://github.com/Starlitnightly/Epiverse) | <img alt="Stars" src="https://img.shields.io/github/stars/DBinary/Epiverse?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
-| [scltnn](https://github.com/Starlitnightly/scltnn) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/scltnn?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
+| [scltnn](https://github.com/Starlitnightly/scltnn) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/scltnn?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf033/8043205) |
 | [ERgene](https://github.com/Starlitnightly/ERgene) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/ERgene?style=flat-square&labelColor=black"/> | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.nature.com/articles/s41598-020-75586-5)|
 
 </td></tr> </table>
@@ -64,7 +64,7 @@
 | [Analysis_nodal](https://github.com/Starlitnightly/Analysis_Nodal) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Analysis_Nodal?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.frontiersin.org/articles/10.3389/fcell.2022.1047363/full) ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 | [Analysis_sisheng](https://github.com/Starlitnightly/Analysis_sisheng) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Analysis_sisheng?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://doi.org/10.2174/0113862073276253231114063813)![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 | [Analysis_JHQG_COVID](https://github.com/Starlitnightly/Analysis_JHQG_COVID) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Analysis_JHQG_COVID?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1382524)![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
-| [Analysis_microbiome_msc](https://github.com/Starlitnightly/Analysis_microbiome_msc) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Analysis_microbiome_msc?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
+| [Analysis_microbiome_msc](https://github.com/Starlitnightly/Analysis_microbiome_msc) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/Analysis_microbiome_msc?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.sciencedirect.com/science/article/pii/S0889159124005701) ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 | [omicverse-reproducibility](https://github.com/Starlitnightly/omicverse-reproducibility) | <img alt="Stars" src="https://img.shields.io/github/stars/Starlitnightly/omicverse-reproducibility?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.nature.com/articles/s41467-024-50194-3) ![TF](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 
 </td></tr> </table>
