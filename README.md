@@ -17,7 +17,6 @@
   <a href="https://github.com/Starlitnightly">
     <img src="https://img.shields.io/github/followers/Starlitnightly?style=for-the-badge&label=Followers&color=24292f" alt="GitHub followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Starlitnightly&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -68,17 +67,17 @@
 ## GitHub Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Starlitnightly&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Starlitnightly&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=Starlitnightly&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlitnightly&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Starlitnightly&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Starlitnightly&theme=tokyonight&utcOffset=8" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Starlitnightly&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Starlitnightly&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ## Flagship Projects
@@ -127,26 +126,11 @@ These repositories package methods, notebooks, and code behind published work.
   <img src="https://img.shields.io/badge/Role-Maintainer-111827?style=flat-square" alt="Maintainer" />
 </p>
 
-## Contribution Activity
+## Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Starlitnightly&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
-
-<details>
-<summary>More GitHub Stats</summary>
-
-<br />
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Starlitnightly&theme=tokyonight" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Starlitnightly&theme=tokyonight" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Starlitnightly&theme=tokyonight" alt="Most commit language" />
-</p>
-</details>
+- Follow recent work on the [repositories tab](https://github.com/Starlitnightly?tab=repositories)
+- See starred projects on the [stars tab](https://github.com/Starlitnightly?tab=stars)
+- Browse open work on the [projects and research repositories](https://github.com/Starlitnightly)
 
 ## Collaboration
 
